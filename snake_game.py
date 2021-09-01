@@ -1,8 +1,3 @@
-
-
-
-
-
 import os
 # set SDL to use the dummy NULL video driver, 
 # so it doesn't need a windowing system.
