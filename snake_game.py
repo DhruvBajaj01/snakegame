@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1o9r3QbKckBkhQdXFp8S3g5-8d0ir2M_3
 """
 
-!unzip -q GameBot\ \(Colab\).zip
 
-!pip install -r requirements.txt
+
+
 
 import os
 # set SDL to use the dummy NULL video driver, 
